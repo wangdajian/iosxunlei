@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>这里填项目的bundle id(必填，必须与app内的一致)</string>
+				<string>com.xunlei.iosthunder</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
